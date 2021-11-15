@@ -82,7 +82,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
+  title: jamStyle a Stylecifer Theme
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
