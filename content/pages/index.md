@@ -103,7 +103,7 @@ seo:
     - name: 'twitter:title'
       value: Stylecifer jamStyle Theme
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: The preview of the jamStyle theme
     - name: 'twitter:image'
       value: /images/Stylecifer ad.jpg
       relativeUrl: true
