@@ -83,7 +83,7 @@ sections:
         style: button
 seo:
   title: jamStyle a Stylecifer Theme
-  description: The preview of the Exto theme
+  description: The preview of the jamStyle theme
   extra:
     - name: 'og:type'
       value: website
