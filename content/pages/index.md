@@ -95,7 +95,7 @@ seo:
       value: The preview of the Exto theme
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/Banners-Editing-figma.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
